@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub Repo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language</string>
+    <string name="starred">Starred</string>
+    <string name="repo_description">Repo Description</string>
+    <string name="reponame">RepoName</string>
+    <string name="trending_repositories">Trending Repositories</string>
+    <string name="search">Search</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="your_offline_now">Your offline now!!</string>
+</resources>
